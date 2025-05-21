@@ -1,0 +1,37 @@
+Papan awal
+.AAA
+BCCC
+B..P
+DD.P
+
+Gerakan ke-1: A-kiri 1
+AAA.
+BCCC
+B..P
+DD.P
+
+Gerakan ke-2: D-kanan 1
+AAA.
+BCCC
+B..P
+.DDP
+
+Gerakan ke-3: B-bawah 1
+AAA.
+.CCC
+B..P
+BDDP
+
+Gerakan ke-4: C-kiri 1
+AAA.
+CCC.
+B..P
+BDDP
+
+Gerakan ke-5: P-atas 2
+AAAP
+CCCP
+B...
+BDD.
+
+

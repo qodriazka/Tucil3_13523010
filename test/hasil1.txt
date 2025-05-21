@@ -1,0 +1,265 @@
+Papan awal
+ABCCDD
+ABEE.F
+.BPPGF
+HHIJGF
+..IJKK
+.LLMM.
+
+Gerakan ke-1: G-atas 1
+ABCCDD
+ABEEGF
+.BPPGF
+HHIJ.F
+..IJKK
+.LLMM.
+
+Gerakan ke-2: L-kiri 1
+ABCCDD
+ABEEGF
+.BPPGF
+HHIJ.F
+..IJKK
+LL.MM.
+
+Gerakan ke-3: I-bawah 1
+ABCCDD
+ABEEGF
+.BPPGF
+HH.J.F
+..IJKK
+LLIMM.
+
+Gerakan ke-4: M-kanan 1
+ABCCDD
+ABEEGF
+.BPPGF
+HH.J.F
+..IJKK
+LLI.MM
+
+Gerakan ke-5: J-bawah 1
+ABCCDD
+ABEEGF
+.BPPGF
+HH...F
+..IJKK
+LLIJMM
+
+Gerakan ke-6: H-kanan 2
+ABCCDD
+ABEEGF
+.BPPGF
+..HH.F
+..IJKK
+LLIJMM
+
+Gerakan ke-7: A-bawah 3
+.BCCDD
+.BEEGF
+.BPPGF
+A.HH.F
+A.IJKK
+LLIJMM
+
+Gerakan ke-8: B-bawah 1
+..CCDD
+.BEEGF
+.BPPGF
+ABHH.F
+A.IJKK
+LLIJMM
+
+Gerakan ke-9: C-kiri 2
+CC..DD
+.BEEGF
+.BPPGF
+ABHH.F
+A.IJKK
+LLIJMM
+
+Gerakan ke-10: D-kiri 1
+CC.DD.
+.BEEGF
+.BPPGF
+ABHH.F
+A.IJKK
+LLIJMM
+
+Gerakan ke-11: F-atas 1
+CC.DDF
+.BEEGF
+.BPPGF
+ABHH..
+A.IJKK
+LLIJMM
+
+Gerakan ke-12: H-kanan 2
+CC.DDF
+.BEEGF
+.BPPGF
+AB..HH
+A.IJKK
+LLIJMM
+
+Gerakan ke-13: I-atas 1
+CC.DDF
+.BEEGF
+.BPPGF
+ABI.HH
+A.IJKK
+LL.JMM
+
+Gerakan ke-14: J-atas 1
+CC.DDF
+.BEEGF
+.BPPGF
+ABIJHH
+A.IJKK
+LL..MM
+
+Gerakan ke-15: L-kanan 2
+CC.DDF
+.BEEGF
+.BPPGF
+ABIJHH
+A.IJKK
+..LLMM
+
+Gerakan ke-16: B-bawah 2
+CC.DDF
+..EEGF
+..PPGF
+ABIJHH
+ABIJKK
+.BLLMM
+
+Gerakan ke-17: E-kiri 2
+CC.DDF
+EE..GF
+..PPGF
+ABIJHH
+ABIJKK
+.BLLMM
+
+Gerakan ke-18: P-kiri 2
+CC.DDF
+EE..GF
+PP..GF
+ABIJHH
+ABIJKK
+.BLLMM
+
+Gerakan ke-19: I-atas 3
+CCIDDF
+EEI.GF
+PP..GF
+AB.JHH
+AB.JKK
+.BLLMM
+
+Gerakan ke-20: J-atas 2
+CCIDDF
+EEIJGF
+PP.JGF
+AB..HH
+AB..KK
+.BLLMM
+
+Gerakan ke-21: H-kiri 2
+CCIDDF
+EEIJGF
+PP.JGF
+ABHH..
+AB..KK
+.BLLMM
+
+Gerakan ke-22: F-bawah 1
+CCIDD.
+EEIJGF
+PP.JGF
+ABHH.F
+AB..KK
+.BLLMM
+
+Gerakan ke-23: D-kanan 1
+CCI.DD
+EEIJGF
+PP.JGF
+ABHH.F
+AB..KK
+.BLLMM
+
+Gerakan ke-24: J-atas 1
+CCIJDD
+EEIJGF
+PP..GF
+ABHH.F
+AB..KK
+.BLLMM
+
+Gerakan ke-25: K-kiri 2
+CCIJDD
+EEIJGF
+PP..GF
+ABHH.F
+ABKK..
+.BLLMM
+
+Gerakan ke-26: G-bawah 2
+CCIJDD
+EEIJ.F
+PP...F
+ABHHGF
+ABKKG.
+.BLLMM
+
+Gerakan ke-27: P-kanan 2
+CCIJDD
+EEIJ.F
+..PP.F
+ABHHGF
+ABKKG.
+.BLLMM
+
+Gerakan ke-28: B-atas 1
+CCIJDD
+EEIJ.F
+.BPP.F
+ABHHGF
+ABKKG.
+..LLMM
+
+Gerakan ke-29: L-kiri 1
+CCIJDD
+EEIJ.F
+.BPP.F
+ABHHGF
+ABKKG.
+.LL.MM
+
+Gerakan ke-30: M-kiri 1
+CCIJDD
+EEIJ.F
+.BPP.F
+ABHHGF
+ABKKG.
+.LLMM.
+
+Gerakan ke-31: F-bawah 2
+CCIJDD
+EEIJ..
+.BPP..
+ABHHGF
+ABKKGF
+.LLMMF
+
+Gerakan ke-32: P-kanan 2
+CCIJDD
+EEIJ..
+.B..PP
+ABHHGF
+ABKKGF
+.LLMMF
+
+
